@@ -1,6 +1,6 @@
 
 node {
-    stage ('stage1) {
+    stage ('stage1') {
         sh 'echo "automate this"'
     }
 }
